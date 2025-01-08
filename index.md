@@ -18,7 +18,7 @@ features:
   - title: 入门教程
     details: 这游戏到底怎么玩呢
   - title: 进阶教程
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 跑图
   - title: 深入教程
     details: 单推人，单推魂，单推都是人上人
 ---
