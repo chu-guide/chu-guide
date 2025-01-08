@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/chu-guide/"
+  base: "/chu-guide/",
   title: "中二节奏游玩教程",
   description: "做机厅小鬼，从你我他做起",
   themeConfig: {
