@@ -2,8 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "拒做机厅小鬼之中二节奏入门教程",
-  description: "如题",
+  base: "/chu-guide/"
+  title: "中二节奏游玩教程",
+  description: "做机厅小鬼，从你我他做起",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
